@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">EnWorld</string>
+
+    <!--登录页-->
+    <string name="login_button">登录</string>
+    <string name="enter_username">请输入帐号</string>
+    <string name="enter_password">请输入密码</string>
+    <string name="forgot_password">密码找回</string>
+    <string name="register_entrance">新用户注册</string>
+
+    <!--注册页-->
+    <string name="register_button">确认注册</string>
+    <string name="enter_new_username">请输入新帐号</string>
+    <string name="enter_new_password">请输入新密码</string>
+    <string name="enter_second_password">请再次输入密码</string>
+
+    <!--导航栏-->
+    <string name="feeds_tab">资讯</string>
+    <string name="chats_tab">消息</string>
+    <string name="contacts_tab">联系人</string>
+    <string name="me_tab">我</string>
+
+    <!--资讯页-->
+    <string name="entrance_list">资讯类型</string>
+    <string name="cet4_tv">CET4</string>
+    <string name="cet6_tv">CET6</string>
+    <string name="toefl_tv">TOEFL</string>
+    <string name="ielts_tv">IELTS</string>
+    <string name="sat_tv">SAT</string>
+    <string name="gre_tv">GRE</string>
+    <string name="gmat_tv">GMAT</string>
+    <string name="bec_tv">BEC</string>
+    <string name="correct_toast"> Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+    <string name="news_feeds">EnWorld资讯</string>
+
+    <!--我页-->
+    <string name="collection">收藏</string>
+    <string name="settings">设置</string>
+    <string name="sign_out">退出</string>
+
+    <!--首层工具栏-->
+    <string name="search">搜索</string>
+    <string name="new_contact">添加联系人</string>
+    <string name="scan">扫一扫</string>
+
+    <!--软文页-->
+    <string name="refresh_toast">文章加载出错，请刷新</string>
+
+    <!--软文页-->
+    <string name="articleTitle">待定</string>
+    <string name="articleAuthor">待定</string>
+
+    <!--软文页工具栏-->
+    <string name="forward">转发</string>
+    <string name="collect">收藏</string>
+
+</resources>
